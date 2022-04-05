@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: blueviolet;
+}
+h2{
+    background-color:brown;
+}
+p{
+    background-color: antiquewhite;
+}
+h2+p{
+background-color: blue;
+}
+.item_1{
+    color: rgb(143, 145, 49);
+}
+.item_2{
+color: rgb(98, 129, 156);
+}
+.item_3{
+    color: rgb(60, 156, 156);
+}
+.item_4{
+    color: rgb(151, 49, 49);
+}
+.item_5{
+    color: rgb(226, 148, 30);
+}
